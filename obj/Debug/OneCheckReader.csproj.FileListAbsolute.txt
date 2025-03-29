@@ -1,0 +1,13 @@
+C:\SC\OneCheckReader\bin\Debug\OneCheckReader.exe.config
+C:\SC\OneCheckReader\bin\Debug\OneCheckReader.exe
+C:\SC\OneCheckReader\bin\Debug\OneCheckReader.pdb
+C:\SC\OneCheckReader\bin\Debug\VisionAPI_DotNet.dll
+C:\SC\OneCheckReader\bin\Debug\VisionAPI_DotNet.pdb
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.csproj.AssemblyReference.cache
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.Form1.resources
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.Properties.Resources.resources
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.csproj.GenerateResource.cache
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.csproj.CoreCompileInputs.cache
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.csproj.CopyComplete
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.exe
+C:\SC\OneCheckReader\obj\Debug\OneCheckReader.pdb
